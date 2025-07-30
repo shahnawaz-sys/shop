@@ -1,0 +1,204 @@
+[
+    {
+        "name": "shah nawaz",
+        "email": "shahnawaz@gmail.com",
+        "review": "good and nice product",
+        "stars": 3
+    },
+    {
+        "name": "ali ahmad",
+        "email": "afridi@gmail.com",
+        "review": "very nice and good quality product its very cheap",
+        "stars": 5
+    },
+    {
+        "name": "khan aridi",
+        "email": "shahnawaz123@gmail.com",
+        "review": "nice",
+        "stars": 1
+    },
+    {
+        "name": "raza",
+        "email": "razakhan@gmail.com",
+        "review": "good quality fruits and vegetables",
+        "rating": 0,
+        "product_id": null,
+        "date": "2025-07-12"
+    },
+    {
+        "name": null,
+        "email": null,
+        "review": null,
+        "rating": 0,
+        "product_id": "37",
+        "date": "2025-07-12"
+    },
+    {
+        "name": null,
+        "email": null,
+        "review": null,
+        "rating": 0,
+        "product_id": "37",
+        "date": "2025-07-12"
+    },
+    {
+        "name": null,
+        "email": null,
+        "review": null,
+        "rating": 0,
+        "product_id": "41",
+        "date": "2025-07-12"
+    },
+    {
+        "name": null,
+        "email": null,
+        "review": null,
+        "rating": 0,
+        "product_id": "43",
+        "date": "2025-07-16"
+    },
+    {
+        "name": null,
+        "email": null,
+        "review": null,
+        "rating": 0,
+        "product_id": "41",
+        "date": "2025-07-17"
+    },
+    {
+        "name": null,
+        "email": null,
+        "review": null,
+        "rating": 0,
+        "product_id": "39",
+        "date": "2025-07-17"
+    },
+    {
+        "name": null,
+        "email": null,
+        "review": null,
+        "rating": 0,
+        "product_id": "39",
+        "date": "2025-07-17"
+    },
+    {
+        "name": null,
+        "email": null,
+        "review": null,
+        "rating": 0,
+        "product_id": "42",
+        "date": "2025-07-17"
+    },
+    {
+        "name": null,
+        "email": null,
+        "review": null,
+        "rating": 0,
+        "product_id": "37",
+        "date": "2025-07-17"
+    },
+    {
+        "name": null,
+        "email": null,
+        "review": null,
+        "rating": 0,
+        "product_id": "43",
+        "date": "2025-07-17"
+    },
+    {
+        "name": null,
+        "email": null,
+        "review": null,
+        "rating": 0,
+        "product_id": "42",
+        "date": "2025-07-18"
+    },
+    {
+        "name": null,
+        "email": null,
+        "review": null,
+        "rating": 0,
+        "product_id": "42",
+        "date": "2025-07-18"
+    },
+    {
+        "name": null,
+        "email": null,
+        "review": null,
+        "rating": 0,
+        "product_id": "42",
+        "date": "2025-07-18"
+    },
+    {
+        "name": null,
+        "email": null,
+        "review": null,
+        "rating": 0,
+        "product_id": "42",
+        "date": "2025-07-18"
+    },
+    {
+        "name": null,
+        "email": null,
+        "review": null,
+        "rating": 0,
+        "product_id": "39",
+        "date": "2025-07-18"
+    },
+    {
+        "name": null,
+        "email": null,
+        "review": null,
+        "rating": 0,
+        "product_id": "39",
+        "date": "2025-07-18"
+    },
+    {
+        "name": null,
+        "email": null,
+        "review": null,
+        "rating": 0,
+        "product_id": "37",
+        "date": "2025-07-18"
+    },
+    {
+        "name": null,
+        "email": null,
+        "review": null,
+        "rating": 0,
+        "product_id": "39",
+        "date": "2025-07-18"
+    },
+    {
+        "name": null,
+        "email": null,
+        "review": null,
+        "rating": 0,
+        "product_id": "42",
+        "date": "2025-07-18"
+    },
+    {
+        "name": null,
+        "email": null,
+        "review": null,
+        "rating": 0,
+        "product_id": "39",
+        "date": "2025-07-18"
+    },
+    {
+        "name": null,
+        "email": null,
+        "review": null,
+        "rating": 0,
+        "product_id": "39",
+        "date": "2025-07-18"
+    },
+    {
+        "name": null,
+        "email": null,
+        "review": null,
+        "rating": 0,
+        "product_id": "39",
+        "date": "2025-07-18"
+    }
+]
